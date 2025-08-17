@@ -91,5 +91,3 @@ Feel free to fork this repository and submit pull requests or issues.
 ## 📬 Author
 
 [Pavan Sihore](https://github.com/pavan-sihore)
-
-```
