@@ -16,8 +16,6 @@ A starter Node.js project using GraphQL with Apollo Server, Express, TypeScript,
 
 ## 📁 Project Structure
 
-```
-
 build/              # Compiled TypeScript output (target directory)
 src/                # Your main source code (GraphQL schema, resolvers, server setup, etc.)
 ├── index.ts        # Entry point for your app
