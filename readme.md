@@ -90,6 +90,6 @@ Feel free to fork this repository and submit pull requests or issues.
 
 ## 📬 Author
 
-[Your Name or GitHub Profile](#)
+[Pavan Sihore](https://github.com/pavan-sihore)
 
 ```
